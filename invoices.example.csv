@@ -1,0 +1,6 @@
+number,client,invoice_date,terms_days,amount,paid_so_far,status
+2026-001,Acme Studio,2026-07-01,14,1200.00,0,open
+2026-002,Northwind Ltd,2026-09-01,30,450.50,0,open
+2026-003,Blue Door GmbH,2026-08-20,14,980.00,400,open
+2026-004,Old Client,2026-06-01,14,300.00,300,paid
+2026-005,Fresh Co,2026-10-10,7,640.00,0,open
